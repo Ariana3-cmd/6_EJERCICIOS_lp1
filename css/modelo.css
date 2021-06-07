@@ -1,0 +1,22 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+  }
+  h2{
+    color: blueviolet;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  input[type='text']{
+    display: block;
+    margin-bottom: 1em;
+    text-align: center;
+    margin-left: 630px;
+  }
+  #resultado{
+    font-size: 2em;
+  }
+  .opciones{
+    display:block;
+    margin-bottom: 1em;
+  }
